@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://hugo-test-site.vmeta.jp/'
 languageCode = 'en-us'
 title = 'Hugo Test Site'
 theme = 'blowfish'
